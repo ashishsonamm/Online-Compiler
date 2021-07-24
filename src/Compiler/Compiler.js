@@ -1,7 +1,6 @@
 import React from "react";
 
 import "./Compiler.css";
-require("dotenv").config();
 
 const Compiler = () => {
     let sourceCode;
